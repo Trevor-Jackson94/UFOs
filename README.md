@@ -5,7 +5,7 @@ Developed a webpage exhibiting UFO sighting data contained in a Javascript objec
 ## Results
 The webpage (Figure 1) was developed to detail UFO sightings contained in the javascript object within the data.js file. The webpage was developed with HTML in conjunction with Javascript to organize the javascript object into a table and enable the filtering feature that is seen on the webpage. Using the index.html file you can apply a filter on the date of the sighting, the city, state, and country the sighting occurred in, as well as the shape of the UFO sighting.
 
-![Figure 1: UFO Sightings Webpage]([https://github.com/Trevor-Jackson94/UFOs/blob/main/images/webpage.PNG](https://raw.githubusercontent.com/Trevor-Jackson94/UFOs/main/images/webpage.PNG)
+![Figure 1: UFO Sightings Webpage](https://github.com/Trevor-Jackson94/UFOs/blob/main/images/webpage.PNG)
 
 ## Summary
 A few items for improvement with the developed webpage include:
